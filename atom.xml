@@ -3,11 +3,11 @@
   <title>hangBlog</title>
   
   <subtitle>我希望我希望的有希望</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://hhyhang.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://hhyhang.github.io/"/>
   <updated>2023-01-23T08:46:45.231Z</updated>
-  <id>http://example.com/</id>
+  <id>https://hhyhang.github.io/</id>
   
   <author>
     <name>航</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="https://hhyhang.github.io/posts/4a17b156.html"/>
+    <id>https://hhyhang.github.io/posts/4a17b156.html</id>
     <published>2023-01-23T07:57:07.529Z</published>
     <updated>2023-01-23T08:46:45.231Z</updated>
     
